@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielnurrasyid
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning about Automation Testing
-- 💞️ I’m looking to collaborate on learning some Automated Testing Script
+- 💞️ I’m looking to collaborate on learning some Automated Testing
 - 📫 How to reach me danielnurrasyid@gmail.com
 
 <!---
